@@ -1,5 +1,8 @@
 git azure dashboard
+<<<<<<< Updated upstream
 Jenkins
 Maven
+=======
+>>>>>>> Stashed changes
 Docker
 Kubernets
